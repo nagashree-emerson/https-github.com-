@@ -1,0 +1,5 @@
+{
+  "user_query": "string",
+  "user_role": "string",
+  "session_id": "string"
+}
